@@ -1,0 +1,183 @@
+{
+  "Metadata": {
+    "siteName": "Kian Auto Gallery",
+    "homeTitle": "Kian Auto Gallery | A Curated Car Gallery",
+    "homeDescription": "Kian Auto Gallery — a small gallery of inspected automobiles with transparent specifications.",
+    "automobilesTitle": "Automobiles | Kian Auto Gallery",
+    "automobilesDescription": "The full list of automobiles available at Kian Auto Gallery, with complete specifications for each.",
+    "aboutTitle": "About Us | Kian Auto Gallery",
+    "aboutDescription": "Learn about Kian Auto Gallery, how we inspect our cars, and how to reach us."
+  },
+  "Nav": {
+    "home": "Home",
+    "automobiles": "Automobiles",
+    "about": "About Us",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "فارسی",
+    "callUs": "Call us"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Kian Auto Gallery",
+      "titleLine1": "Fewer cars.",
+      "titleLine2": "Flawless ones.",
+      "subtitle": "Every automobile here is inspected and documented before it reaches you — with transparent specs and no embellishment.",
+      "ctaPrimary": "View automobiles",
+      "ctaSecondary": "About the gallery"
+    },
+    "stats": {
+      "years": { "value": "12", "suffix": "+", "label": "Years active" },
+      "delivered": { "value": "400", "suffix": "+", "label": "Cars delivered" },
+      "inspected": { "value": "100", "suffix": "%", "label": "Inspected before sale" }
+    },
+    "featured": {
+      "eyebrow": "Showcase",
+      "title": "Featured automobiles",
+      "subtitle": "A sample of the cars available in the gallery this week.",
+      "viewAll": "View all automobiles"
+    },
+    "why": {
+      "eyebrow": "Why Kian",
+      "title": "What's on the spec sheet is what you drive away with",
+      "items": [
+        {
+          "title": "150-point inspection",
+          "body": "Every car goes through a thorough technical inspection before it enters the gallery."
+        },
+        {
+          "title": "Transparent specs",
+          "body": "Mileage, history, and bodywork condition are disclosed exactly as they are."
+        },
+        {
+          "title": "No-rush consultation",
+          "body": "Take the time you need to view the car, test drive it, and ask your questions."
+        },
+        {
+          "title": "After-sale support",
+          "body": "Our relationship doesn't end at the sale — we're reachable for any follow-up questions."
+        }
+      ]
+    },
+    "aboutTeaser": {
+      "eyebrow": "About the gallery",
+      "title": "A gallery, not a lot",
+      "body": "Kian Auto Gallery has worked by the same simple rule since 2013: fewer cars, but every one inspected and documented. Instead of scrolling through hundreds of uncertain listings, you're looking at a short list we stand behind.",
+      "cta": "Read more"
+    },
+    "ctaBand": {
+      "title": "Looking for your next car?",
+      "body": "Get in touch and we'll walk you through it at your own pace, or arrange an in-person viewing.",
+      "button": "Contact the gallery"
+    }
+  },
+  "Automobiles": {
+    "eyebrow": "Full inventory",
+    "title": "Automobiles",
+    "subtitle": "Every car currently in the gallery, with complete specifications for each.",
+    "filter": {
+      "bodyTypeLabel": "Body type",
+      "all": "All",
+      "sortLabel": "Sort by",
+      "sortNewest": "Newest",
+      "sortPriceAsc": "Price: low to high",
+      "sortPriceDesc": "Price: high to low"
+    },
+    "resultsCount": "{count, plural, one {# automobile} other {# automobiles}} found",
+    "empty": "No automobiles match this filter. Try a different one."
+  },
+  "AutomobileCard": {
+    "viewDetails": "View details",
+    "priceUnit": "Toman",
+    "kmUnit": "km"
+  },
+  "AutomobileDetail": {
+    "back": "Back to automobiles",
+    "specsTitle": "Spec sheet",
+    "specs": {
+      "year": "Year",
+      "mileage": "Mileage",
+      "transmission": "Transmission",
+      "fuelType": "Fuel type",
+      "engine": "Engine",
+      "drivetrain": "Drivetrain",
+      "color": "Exterior colour",
+      "seats": "Seats",
+      "bodyType": "Body type"
+    },
+    "descriptionTitle": "Description",
+    "priceUnit": "Toman",
+    "kmUnit": "km",
+    "seatsUnit": "seats",
+    "contact": {
+      "title": "Interested in this car?",
+      "body": "Get in touch to arrange an in-person viewing, a test drive, or to ask for more information.",
+      "callButton": "Call now",
+      "whatsappButton": "Message on WhatsApp"
+    },
+    "related": {
+      "title": "Similar automobiles"
+    },
+    "gallery": {
+      "mainAlt": "Photo {index} of {brand} {model}",
+      "thumbAlt": "Thumbnail {index}"
+    }
+  },
+  "About": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "A gallery that takes its own spec sheet seriously",
+      "subtitle": "Kian Auto Gallery is a small showroom with one fixed rule: no car reaches the floor without a full inspection first."
+    },
+    "timeline": {
+      "eyebrow": "Our path",
+      "title": "From a small showcase to today",
+      "items": [
+        {
+          "year": "2013",
+          "title": "Getting started",
+          "body": "We started with a small showcase and one simple promise: describe every car exactly as it is."
+        },
+        {
+          "year": "2021",
+          "title": "Adding technical inspection",
+          "body": "We made a 150-point inspection a mandatory part of accepting any car into the gallery."
+        },
+        {
+          "year": "Today",
+          "title": "Right now",
+          "body": "Dozens of cars with documented, transparent specs are ready for you to view in person."
+        }
+      ]
+    },
+    "valuesTitle": "What's on the spec sheet is what you drive away with",
+    "contact": {
+      "eyebrow": "Get in touch",
+      "title": "Visit us or give us a call",
+      "body": "For an in-person visit, a test drive, or any other question, we'd be glad to hear from you.",
+      "addressLabel": "Address",
+      "address": "Vali Asr St, above Vanak Sq, No. 12, Tehran, Iran",
+      "phoneLabel": "Phone",
+      "phone": "021-88776655",
+      "mobileLabel": "Mobile",
+      "mobile": "0912-345-6789",
+      "emailLabel": "Email",
+      "email": "info@kianauto.ir",
+      "hoursLabel": "Hours",
+      "hours": "Saturday–Thursday, 9am–7pm"
+    }
+  },
+  "Footer": {
+    "tagline": "A gallery of curated automobiles — transparent, inspected, ready to deliver.",
+    "quickLinks": "Quick links",
+    "contact": "Contact the gallery",
+    "hours": "Working hours",
+    "social": "Follow us",
+    "rights": "All rights reserved."
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "body": "The address may be wrong, or this car may no longer be available in the gallery.",
+    "backHome": "Back to homepage"
+  }
+}
